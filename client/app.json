@@ -2,6 +2,7 @@
   "expo": {
     "name": "Roamly",
     "slug": "roamly",
+    "description": "Mobile application for traveling with building optimal routes.",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,7 +30,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "9b233ac0-2b29-4919-b9b6-b616c104b0f3"
+        "projectId": "8e43b529-d185-4ae2-9f5d-981a6b3e92ba"
       }
     },
     "owner": "aliaksandra",
@@ -37,7 +38,7 @@
       "policy": "sdkVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/9b233ac0-2b29-4919-b9b6-b616c104b0f3"
+      "url": "https://u.expo.dev/8e43b529-d185-4ae2-9f5d-981a6b3e92ba"
     }
   }
 }
